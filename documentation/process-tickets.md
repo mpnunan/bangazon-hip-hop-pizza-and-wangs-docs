@@ -43,8 +43,8 @@ By completing this ticket, you will have created a compelling presentation that 
 Set up a project board to track the progress of the project. The project board will help organize tasks, assign responsibilities, and monitor the completion of different project components. Additionally, add the MVP tickets to the project board.
 
 **Checklist:**
-- [ ] Create a new project board using GitHub's project management feature.
-- [ ] Define columns for different project phases or task statuses (e.g., To Do, In Progress, Done).
+- [*] Create a new project board using GitHub's project management feature.
+- [*] Define columns for different project phases or task statuses (e.g., To Do, In Progress, Done).
 - [ ] Add the MVP tickets to the project board, representing the core functionalities.
 - [ ] Regularly update the project board, moving cards across columns as tasks progress.
 
